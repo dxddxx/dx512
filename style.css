@@ -16,3 +16,10 @@ h1 {
   -webkit-user-select: none;
   user-select: none;
 }
+
+/* Adjusting font size for landscape orientation */
+@media screen and (orientation: landscape) {
+  h1 {
+    font-size: 3em; /* Smaller font size for landscape mode */
+  }
+}
