@@ -13,7 +13,7 @@ h1 {
   transform: translate(-50%, -50%);
   color: #fff;
   font-family: "Source Sans Pro";
-  font-size: 5em; /* Default size for smaller screens */
+  font-size: 32px; /* Default size for smaller screens */
   font-weight: 900;
   -webkit-user-select: none;
   user-select: none;
